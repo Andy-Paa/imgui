@@ -1,0 +1,4 @@
+This app.log file should located at: */build/Debug/app.log
+For more infomation, check */log.h
+For use cases, check */Application.cpp
+Logs goes here:
